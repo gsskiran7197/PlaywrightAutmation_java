@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestUser Suite">
+    <test name="Demo">
+        <classes>
+            <class name="Basics.chromium">
+                <methods>
+                    <include name="chromium"/>
+                    <include name="firstProgram"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
