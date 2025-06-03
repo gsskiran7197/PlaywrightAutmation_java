@@ -1,0 +1,23 @@
+{
+  "name": "playwright_automation_java",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsskiran7197/PlaywrightAutmation_java.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsskiran7197/PlaywrightAutmation_java/issues"
+  },
+  "homepage": "https://github.com/gsskiran7197/PlaywrightAutmation_java#readme",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
